@@ -1,0 +1,6 @@
+dspy
+nltk
+pydantic
+python-dotenv
+openai
+numpy
